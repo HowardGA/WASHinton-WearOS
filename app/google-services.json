@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "459721239473",
+    "firebase_url": "https://washinton-20dda-default-rtdb.firebaseio.com",
+    "project_id": "washinton-20dda",
+    "storage_bucket": "washinton-20dda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459721239473:android:ead590cab3e72945122b90",
+        "android_client_info": {
+          "package_name": "com.example.washinton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcoJJ4uI0EP8hMH5keQnMKbMSY_xGqJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459721239473:android:295ec295e37aa5ad122b90",
+        "android_client_info": {
+          "package_name": "com.example.washintonwearos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcoJJ4uI0EP8hMH5keQnMKbMSY_xGqJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459721239473:android:21a5c0e7f56d0212122b90",
+        "android_client_info": {
+          "package_name": "com.washinton.washintonwearos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcoJJ4uI0EP8hMH5keQnMKbMSY_xGqJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
